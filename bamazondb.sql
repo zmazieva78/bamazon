@@ -24,4 +24,13 @@ INSERT INTO products (id, product, department, price, stock_quantity) values (24
 INSERT INTO products (id, product, department, price, stock_quantity) values (96, 'Mini Fridge', 'Appliance', 129, 5);
 INSERT INTO products (id, product, department, price, stock_quantity) values (25, 'Microwave', 'Appliance', 49, 28);
 
+CREATE TABLE departments(
+  department_id INTEGER(255) AUTO_INCREMENT NOT NULL,
+  department_name VARCHAR(100),
+  over_head_costs INTEGER(255),
+  price integer(255),
+  stock_quantity integer(255),
+  PRIMARY KEY (id)
+);
+
 SELECT * FROM products;
