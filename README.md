@@ -13,7 +13,6 @@ Node.js, MySQL, Javascript
 - At command prompt run node bamazonCustomer.js
 
 ## Video of working application
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://youtu.be/m8iSd_rhruY)
 
 https://drive.google.com/file/d/1MhYPODblX7n1_KdCxb6qWcLPnKv37twe/view
 
