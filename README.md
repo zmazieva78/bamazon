@@ -14,5 +14,5 @@ Node.js, MySQL, Javascript
 
 ## Video of working application
 
-https://drive.google.com/file/d/1MhYPODblX7n1_KdCxb6qWcLPnKv37twe/view
-
+Watch video in full screen mode.
+https://drive.google.com/file/d/175VD2NMhW6BrpRRSxS8YI0SSO27E0Svb/view
