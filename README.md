@@ -8,9 +8,13 @@ Node.js, MySQL, Javascript
 
 ## How it Works
 - Clone repo
-- Run npm install
-- Build database from bamazondb.sql
+- Run npm install on your terminal
+- Build database from bamazondb.sql file: 
+    - Copy and paste the database into your MySQL file, run it and save.
+    - Don't forget to enter password if your MySQL requires it.
 - At command prompt run node bamazonCustomer.js
+- You will be given a data table with products, quantities and price.
+- Choose a product and quantity, the app will give you total amount you need to pay, however if the products quantity is not enough the transaction will not go through.
 
 ## Video of working application
 
